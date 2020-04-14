@@ -9,7 +9,7 @@ name: Jacky Xia
 description: A Self-taught Junior Software Engineer from San Francisco
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars1.githubusercontent.com/u/41301122?s=460&u=91fe37456642689aac9e57a3a9b78392909069f9&v=4
+avatar: ![_config.yml]({{ site.baseurl }}/images/me2.jpg)
 
 #
 # Flags below are optional
