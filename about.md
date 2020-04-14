@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Hi Stranger!
+## Hi Stranger!
 
 As you can tell, I am an up and coming Software Engineer looking for more experience and foothold within this industry! I've always wanted to see what it was like being a Software Engineer and during the year of 2020, I have decided to fully commit to this route! 
 
