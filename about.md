@@ -5,6 +5,7 @@ permalink: /about/
 published: true
 ---
 
+
 ### Hi Stranger!
 
 As you can tell, I am an up and coming Software Engineer looking for more experience and foothold within this industry! I've always wanted to see what it was like being a Software Engineer and during the year of 2020, I have decided to fully commit to this route! 
@@ -14,7 +15,7 @@ Please email me if you wish to communicate or collaborate! See you around!
 ## Hobbies and Interests
 
 ### My Sweet cat Zelda whom I love very much :)
-[]({{site.baseurl}}/chonkers.jpg)
+![chonkee.jpg]({{site.baseurl}}/chonkee.jpg)
 
 
 ### Games
