@@ -13,6 +13,9 @@ Please email me if you wish to communicate or collaborate! See you around!
 
 ## Hobbies and Interests
 
+### My Sweet cat Zelda whom I love very much :)
+![]({{site.baseurl}}//chonkers.jpg)
+
 ### Games
 [League of Legends](https://play.na.leagueoflegends.com/en_US)
 
@@ -22,7 +25,7 @@ Please email me if you wish to communicate or collaborate! See you around!
 
 [Ragnarok Online](http://playragnarok.com/)
 
-### Cooking with Ramsey
+### Cooking with Ramsay
 [10 Essential Tips for Cooking](https://www.youtube.com/watch?v=wHRXUeVsAQQ)
 
 [5 Basic Cooking Skills](https://www.youtube.com/watch?v=ZJy1ajvMU1k)
