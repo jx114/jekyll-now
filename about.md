@@ -14,7 +14,8 @@ Please email me if you wish to communicate or collaborate! See you around!
 ## Hobbies and Interests
 
 ### My Sweet cat Zelda whom I love very much :)
-![]({{site.baseurl}}//chonkers.jpg)
+[chonkers.jpg]({{site.baseurl}}/chonkers.jpg)
+
 
 ### Games
 [League of Legends](https://play.na.leagueoflegends.com/en_US)
