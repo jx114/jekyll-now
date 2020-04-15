@@ -5,15 +5,15 @@ permalink: /about/
 published: true
 ---
 
-## Hi Stranger!
+### Hi Stranger!
 
 As you can tell, I am an up and coming Software Engineer looking for more experience and foothold within this industry! I've always wanted to see what it was like being a Software Engineer and during the year of 2020, I have decided to fully commit to this route! 
 
 Please email me if you wish to communicate or collaborate! See you around!
 
-### Hobbies and Interests
+## Hobbies and Interests
 
-## Games
+### Games
 [League of Legends](https://play.na.leagueoflegends.com/en_US)
 
 [7 Deadly Sins Grand Cross](https://play.google.com/store/apps/details?id=com.netmarble.nanagb&hl=en_US)
@@ -22,7 +22,7 @@ Please email me if you wish to communicate or collaborate! See you around!
 
 [Ragnarok Online](http://playragnarok.com/)
 
-## Cooking with Ramsey
+### Cooking with Ramsey
 [10 Essential Tips for Cooking](https://www.youtube.com/watch?v=wHRXUeVsAQQ)
 
 [5 Basic Cooking Skills](https://www.youtube.com/watch?v=ZJy1ajvMU1k)
@@ -32,12 +32,3 @@ Please email me if you wish to communicate or collaborate! See you around!
 ### Contact me at
 
 [jacky.w.xia@gmail.com](mailto:jacky.w.xia@gmail.com) or (415)309-8111
-
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
