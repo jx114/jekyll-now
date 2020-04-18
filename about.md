@@ -14,6 +14,13 @@ Please email me if you wish to communicate or collaborate! See you around!
 
 ## Hobbies and Interests
 
+## Languages 
+### Learning
+Python, Ruby, HTML/CSS, JavaScript
+
+### Learned
+TBD
+
 ### My Sweet cat Zelda whom I love very much :)
 ![chonkee.jpg]({{site.baseurl}}/chonkee.jpg)
 
