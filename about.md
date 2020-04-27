@@ -22,7 +22,6 @@ Python, Ruby, HTML/CSS, JavaScript
 TBD
 
 ### My Sweet cat Zelda whom I love very much :)
-![chonkee.jpg]({{site.baseurl}}/chonkee.jpg)
 
 
 ### Games
