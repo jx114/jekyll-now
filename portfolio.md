@@ -12,11 +12,8 @@ TBD
 
 ## Websites
 
-[Monty Python Hall](https://github.com/jx114/jx114.github.io/blob/master/monty_python.html)
+[Monty Python Hall](monty_python.html)
 
-<dl>
-  <dd> <a href="monty_python.html">Monty Python Hall</a></dd>
-</dl>
 
 ---
 
