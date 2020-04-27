@@ -1,0 +1,60 @@
+body {
+    background: #333333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_container {
+    width: 700px;
+    margin: 20px auto 50px;
+    text-align: center;
+    color: #ff8ff1;
+
+}
+div {
+    display: block;
+}
+#title {
+    font-size: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: #222;
+    font-family: Impact, Charcoal, sans-serif;
+}
+#goat {
+    font-size: 50px;
+    text-align: center;
+}
+#narrator {
+    font-family: Consolas, monaco, monospace;
+    font-size: 18px;
+    line-height: 1.4;
+    text-align: center;
+    color: #777
+}
+
+#door_container {
+    text-align: center;
+}
+
+.door {
+    display: inline-block;
+    margin: 0 30px;
+}
+
+.video_container {
+    margin: 30px;
+}
+
+a:link {
+    color: #fd8e45;
+    
+}
+a:visted {
+    color: #fd8e45;
+}
+a:hover{
+    color: #ff6500;
+}
+a:active {
+    color: #ff6500;
+}
