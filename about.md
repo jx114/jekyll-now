@@ -15,6 +15,7 @@ Please email me if you wish to communicate or collaborate! See you around!
 ## Hobbies and Interests
 
 ## Languages 
+
 ### Learning
 Python, Ruby, HTML/CSS, JavaScript
 
@@ -25,20 +26,22 @@ TBD
 
 
 ### Games
-[League of Legends](https://play.na.leagueoflegends.com/en_US)
 
-[7 Deadly Sins Grand Cross](https://play.google.com/store/apps/details?id=com.netmarble.nanagb&hl=en_US)
+1. [League of Legends](https://play.na.leagueoflegends.com/en_US)
 
-[Monster Hunter World](http://monsterhunterworld.com/)
+2. [7 Deadly Sins Grand Cross](https://play.google.com/store/apps/details?id=com.netmarble.nanagb&hl=en_US)
 
-[Ragnarok Online](http://playragnarok.com/)
+3. [Monster Hunter World](http://monsterhunterworld.com/)
+
+4. [Ragnarok Online](http://playragnarok.com/)
 
 ### Cooking with Ramsay
-[10 Essential Tips for Cooking](https://www.youtube.com/watch?v=wHRXUeVsAQQ)
 
-[5 Basic Cooking Skills](https://www.youtube.com/watch?v=ZJy1ajvMU1k)
+1. [10 Essential Tips for Cooking](https://www.youtube.com/watch?v=wHRXUeVsAQQ)
 
-[10 Years of 3 Michelin Stars](https://www.youtube.com/watch?v=VTZUzKMT3Jg&list=PLqcsHBAmAI5LVauU9HH1ASSu2_Ccbp-MZ&index=2)
+2. [5 Basic Cooking Skills](https://www.youtube.com/watch?v=ZJy1ajvMU1k)
+
+3. [10 Years of 3 Michelin Stars](https://www.youtube.com/watch?v=VTZUzKMT3Jg&list=PLqcsHBAmAI5LVauU9HH1ASSu2_Ccbp-MZ&index=2)
 
 ### Contact me at
 
