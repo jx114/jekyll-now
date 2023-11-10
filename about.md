@@ -52,5 +52,5 @@ JavaScript, React,
 3. [IMPORTANT: Washing Dishes](https://www.youtube.com/watch?v=vyis-EmiZXI)
 
 ### Contact me at
-[jacky.w.xia@gmail.com](mailto:jacky.w.xia@gmail.com) or (415) 309-8111
+[jacky.w.xia@gmail.com](mailto:jacky.w.xia@gmail.com)
 
